@@ -1,0 +1,3 @@
+# Control Parental 
+
+Control Parental es una aplicación diseñada para ayudar a padres y tutores a supervisar y gestionar el uso de dispositivos móviles por parte de menores.
